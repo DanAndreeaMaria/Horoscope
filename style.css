@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    background-image: url("https://wallpapercave.com/wp/wp2337018.png");
+    width: 100vw;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 35vh;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    padding: 20px;
+    font-family: "Satisfy", cursive;
+    font-weight: 100;
+    color: white;
+    text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+}
+
